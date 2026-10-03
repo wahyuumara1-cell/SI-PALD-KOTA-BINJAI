@@ -1,0 +1,8 @@
+{
+  "name": "SI-PALD BINJAI - Layanan Pengolahan Air Limbah Domestik",
+  "description": "Sistem Informasi Pelayanan Pengelolaan Air Limbah Domestik Kota Binjai, UPTD PALD Dinas PUTR. Layanan jemput lumpur tinja, jadwal sedot berkala, pelacakan tiket, dan kartu septik sehat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
